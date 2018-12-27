@@ -1,0 +1,19 @@
+C:\Users\user\Desktop\TAY\WORK\RemoveBackground\RemoveBackground\bin\Debug\RemoveBackground.exe.config
+C:\Users\user\Desktop\TAY\WORK\RemoveBackground\RemoveBackground\bin\Debug\RemoveBackground.exe
+C:\Users\user\Desktop\TAY\WORK\RemoveBackground\RemoveBackground\bin\Debug\RemoveBackground.pdb
+C:\Users\user\Desktop\TAY\WORK\RemoveBackground\RemoveBackground\obj\Debug\RemoveBackground.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\TAY\WORK\RemoveBackground\RemoveBackground\obj\Debug\RemoveBackground.Form1.resources
+C:\Users\user\Desktop\TAY\WORK\RemoveBackground\RemoveBackground\obj\Debug\RemoveBackground.Properties.Resources.resources
+C:\Users\user\Desktop\TAY\WORK\RemoveBackground\RemoveBackground\obj\Debug\RemoveBackground.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\TAY\WORK\RemoveBackground\RemoveBackground\obj\Debug\RemoveBackground.exe
+C:\Users\user\Desktop\TAY\WORK\RemoveBackground\RemoveBackground\obj\Debug\RemoveBackground.pdb
+D:\Visual Studio\RemoveBackground\RemoveBackground\bin\Debug\RemoveBackground.exe.config
+D:\Visual Studio\RemoveBackground\RemoveBackground\bin\Debug\RemoveBackground.exe
+D:\Visual Studio\RemoveBackground\RemoveBackground\bin\Debug\RemoveBackground.pdb
+D:\Visual Studio\RemoveBackground\RemoveBackground\obj\Debug\RemoveBackground.Form1.resources
+D:\Visual Studio\RemoveBackground\RemoveBackground\obj\Debug\RemoveBackground.Properties.Resources.resources
+D:\Visual Studio\RemoveBackground\RemoveBackground\obj\Debug\RemoveBackground.csproj.GenerateResource.Cache
+D:\Visual Studio\RemoveBackground\RemoveBackground\obj\Debug\RemoveBackground.exe
+D:\Visual Studio\RemoveBackground\RemoveBackground\obj\Debug\RemoveBackground.pdb
+D:\Visual Studio\RemoveBackground\RemoveBackground\obj\Debug\RemoveBackground.csprojAssemblyReference.cache
+D:\Visual Studio\RemoveBackground\RemoveBackground\obj\Debug\RemoveBackground.csproj.CoreCompileInputs.cache
